@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #000000;
+	color: #f0e3d3;
+}
+
+header {
+	font-family: 'Mystical Snow';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+}
+
+header li {
+	display: inline;
+	float: right;
+	color: #ffffff;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 2px;
+	border: 2px solid #4f4f4f;
+	border-radius: 5px;
+}
+
+.gps li a:link {
+	color: #ffc100;
+	text-decoration: none;
+}
+
+.gps li a:active {
+	background-color: #f12821;
+}
+
+.gps li a:hover {
+	color: #ffffff;
+	background-color: #f12821;
+	text-shadow: 5px 5px #000000;
+}
+
+.gps li a:visited {
+	color: #ffc100;
+}

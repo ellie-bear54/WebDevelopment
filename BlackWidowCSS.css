@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+/* here is the style sheet to go with the Black Widow page */
+body {
+	background-color: #000000;
+	color: #f0e3d3;
+}
+
+header {
+	font-family: "Mystical Snow";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 50px;
+}
+
+
+
+header li {
+	display: inline;
+	float: right;
+	color: #ffffff;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-left: 2px;
+	border: 2px solid #4f4f4f;
+	border-radius: 5px;
+}
+
+
+.gps li a:link {
+	color: #FFC100;
+	text-decoration: none;
+}
+
+.gps li a:active {
+	background-color: #F12821;
+}
+
+.gps li a:hover {
+	color: #FFFFFF;
+	background-color: #F12821;
+	text-shadow: 5px 5px #000000;
+}
+
+.gps li a:visited {
+	color: #FFC100;
+}
+
+.welcome{
+	color: #f0e3d3;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 30px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 250px;
+	max-width: 60%
+}
