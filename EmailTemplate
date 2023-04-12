@@ -1,0 +1,317 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!--preferred html for email-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CIPD Weekly Events Email Template</title><!--title can change to reflect the dates the events span-->
+<style type="text/css">
+	@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+	body {
+		margin: 0;
+	}
+	table {
+		border-spacing: 0;
+	}
+	td {
+		padding: 0;
+	}
+	img {
+		border: 0;
+	}
+	.wrapper {
+		width: 100%;
+		table-layout: fixed;
+		background-color: #ffffff;
+		padding-bottom: 60px;
+	}
+	.main{
+		width: 100%;
+		max-width: 600px;
+		background-color: #ffffff;
+		font-family: 'Times New Roman', Times, serif;
+		box-shadow: 0 0 25px rgba(0, 0, 0, .50);
+		text-align: center;
+	}
+	.social {
+		width: 38px;
+	}
+	.social-media {
+		padding: 12px 0 12px 62px;
+	}
+	.two-columns {
+		font-size: 0;
+		text-align: center;
+	}
+	.two-columns .column {
+		width: 100%;
+		max-width: 300px;
+		display: inline-block;
+		vertical-align: top;
+	}
+	h3 {
+		font-family: 'Times New Roman', serif;
+		font-size: 28px;
+	}
+	.button {
+		background-color: #ce1126;
+		color: #ffffff;
+		text-decoration: none;
+		padding: 12px 20px;
+		font-weight: bold;
+		border-radius: 5px;
+	}
+	h4 {
+		font-family: 'Times New Roman', serif;
+		font-size: 22px;
+	}
+	.three-columns {
+		font-size: 0;
+		padding: 35px 0 20px;
+	}
+	.three-columns .column {
+		width: 100%;
+		max-width: 200px;
+		display: inline-block;
+		vertical-align: top;
+	}
+	.three-columns .padding {
+		padding: 25px;
+	}
+	.three-columns .content {
+		font-size: 15px;
+		line-height: 20px;
+	}
+	.two-columns.last {
+		padding: 35px 0;
+	}
+	.two-columns .padding {
+		padding: 20px;
+	}
+	.two-columns .content {
+		text-align: left;
+		font-size: 15px;
+		line-height: 20px;
+	}
+</style>
+</head>
+<body>
+
+	<center class="wrapper">
+
+		<table class="main" width="100%">
+
+<!-- BORDER -->
+		<tr>
+			<td height="8" style="background-color: #ce1126;">
+					
+			</td>
+		</tr>
+
+			
+<!-- LOGO & SOCIAL MEDIA SECTION -->
+		<tr>
+			<td style="padding: 14px 0 14px;">
+				<table width="100%">
+					<tr>
+						<td class="two-columns">
+							<table class="column">
+								<tr>
+									<td style="padding: 0 22px 10px;">
+										<a href="#"><img src="img/logo.png" alt="SailChimp logo" title="SailChimp" width="250"></a>
+									</td>
+								</tr>
+							</table>
+							
+							<table class="column">
+								<tr>
+									<td class="social-media">
+										<a href="#"><img src="img/facebook.png" alt="" class="social"></a>
+										<a href="#"><img src="img/twitter.png" alt="" class="social"></a>
+										<a href="#"><img src="img/youtube.png" alt="" class="social"></a>
+										<a href="#"><img src="img/linkedin.png" alt="" class="social"></a>
+										<a href="#"><img src="img/instagram.png" alt="" class="social"></a>
+									</td>
+								</tr>
+							</table>
+
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+			
+<!-- BANNER IMAGE -->
+		<tr>
+			<td>
+				<a href="#"><img src="img/banner.jpg" alt="" width="600" style="max-width: 100%;"></a>
+			</td>
+		</tr>
+			
+<!-- TITLE, TEXT & BUTTON -->
+		<tr>
+			<td style="padding: 20px 15px 50px;">
+				<table width="100%">
+					<tr>
+						<td>
+							<h3>Insert Text <span style="color: #ce1126">Here</span></h3>
+							<p style="line-height: 23px; font-size: 15px; padding: 0 0 22px;">Here is where the content of the email will go.</p>
+							<a href="#" class="button">Register Here</a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+			
+<!-- BORDER -->
+		<tr>
+			<td height="2" style="background-color: #ce1126;">
+					
+			</td>
+		</tr>
+
+<!-- THREE COLUMN SECTION -->
+		<tr>
+			<td>
+				<table width="100%">
+					<tr>
+						<td class="three-columns">
+							<table class="column">
+								<tr>
+									<td class="padding">
+										<table class="content">
+											<tr>
+												<td>
+													<a href="#"><img src="img/design.png" alt="" width="150"></a>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding: 5px 0 10px;">
+													<h4>Email Design</h4>
+													<p>Here is some text.</p>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+							<table class="column">
+								<tr>
+									<td class="padding">
+										<table class="content">
+											<tr>
+												<td>
+													<a href="#"><img src="img/development.png" alt="" width="150"></a>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding: 5px 0 10px;">
+													<h4>Development</h4>
+													<p>Here is some text.</p>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+							<table class="column">
+								<tr>
+									<td class="padding">
+										<table class="content">
+											<tr>
+												<td>
+													<a href="#"><img src="img/marketing.png" alt="" width="150"></a>
+												</td>
+											</tr>
+											<tr>
+												<td style="padding: 5px 0 10px;">
+													<h4>Email Marketing</h4>
+													<p>Here is some text.</p>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+			
+<!-- BORDER -->
+		<tr>
+			<td height="2" style="background-color: #ce1126;">	
+			</td>
+		</tr>
+<!-- TWO COLUMN SECTION -->
+		<tr>
+			<td>
+				<table width="100%">
+					<tr>
+						<td class="two-columns last">
+							<table class="column">
+								<tr>
+									<td class="padding">
+										<table class="content">
+											<tr>
+												<td>
+													<a href="#"><img src="img/palette.png" alt="" width="260"></a>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+
+							<table class="column">
+								<tr>
+									<td class="padding">
+										<table class="content">
+											<tr>
+												<td>
+													<h4>Create Custom Designs</h4>
+													<p>Here is some text.</p>
+													<p style="padding-bottom: 15px;">here is some more text.</p>
+													<a href="#" class="button">Another Registration Link</a>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+<!-- FOOTER SECTION -->
+		<tr>
+			<td style="background-color: #ce1126; color: #ffffff;">
+				<table width="100%">
+					<tr>
+						<td style="padding: 45px 20px;">
+							<a href="#"><img src="img/logo.png" alt="" width="260"></a>
+							<p style="padding: 5px 0 3px;">Center for Integrated Professional Development Weekly Events Email</p>
+							<p style="padding: 3px;">210 Hovey Hall, Normal, IL 61790, United States</p>
+							<a href="#"><img src="img/facebook.png" alt="" class="social"></a>
+							<a href="#"><img src="img/twitter.png" alt="" class="social"></a>
+							<a href="#"><img src="img/youtube.png" alt="" class="social"></a>
+							<a href="#"><img src="img/linkedin.png" alt="" class="social"></a>
+							<a href="#"><img src="img/instagram.png" alt="" class="social"></a>
+							<p style="padding: 10px;">Illinois State University</p>
+						</td>
+					</tr>
+					<tr>
+						<td height="10" style="background-color: #aaaaaa;"></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		</table> <!-- End Main Class -->
+
+	</center> <!-- End Wrapper -->
+
+</body>
+</html>
